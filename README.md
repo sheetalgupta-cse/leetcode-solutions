@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0724-find-pivot-index](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
