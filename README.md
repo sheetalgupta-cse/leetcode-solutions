@@ -45,8 +45,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
