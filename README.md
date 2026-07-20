@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0724-find-pivot-index](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
