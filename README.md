@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -75,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
