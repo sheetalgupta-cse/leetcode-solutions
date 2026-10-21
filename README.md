@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0039-combination-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
