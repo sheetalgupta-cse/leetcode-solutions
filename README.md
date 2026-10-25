@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0784-letter-case-permutation](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
