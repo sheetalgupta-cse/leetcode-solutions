@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
