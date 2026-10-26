@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
