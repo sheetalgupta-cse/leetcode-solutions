@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0784-letter-case-permutation](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
