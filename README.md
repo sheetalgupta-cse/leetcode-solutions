@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0784-letter-case-permutation](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/sheetalgupta-cse/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
